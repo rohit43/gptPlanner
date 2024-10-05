@@ -1,5 +1,8 @@
 # GPT Planner
 
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-Planner-orange?style=flat&logoColor=white)
+
 GPT Planner is an interactive R Shiny application designed to help users understand and plan Generative Pre-trained Transformer (GPT) model architectures. This tool allows you to explore various GPT model configurations and visualize their impact on model size, memory usage, and computational requirements. Please note, this is still under construction, therefore, use with caution. 
 
 ## Features
