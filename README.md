@@ -25,12 +25,12 @@ install.packages(c("shiny", "ggplot2", "dplyr", "scales", "DT"))
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/gpt-planner.git
+git clone https://github.com/rohit43/gptPlanner.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd gpt-planner
+cd gptPlanner
 ```
 
 3. Run the Shiny app:
